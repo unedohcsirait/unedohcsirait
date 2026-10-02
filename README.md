@@ -55,13 +55,6 @@ Currently learning and exploring modern technologies to turn ideas into useful d
 
 ## 📌 Featured Projects
 
-### 🌐 JWF DEV
-
-> Web development service platform built to showcase and promote website development services.
-
-**Tech:** React • JavaScript • CSS
-
----
 
 ### 📊 Sistem Informasi Indeks Desa
 
@@ -104,13 +97,6 @@ Currently learning and exploring modern technologies to turn ideas into useful d
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unedohcsirait&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
