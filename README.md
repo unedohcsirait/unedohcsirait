@@ -55,7 +55,6 @@ Currently learning and exploring modern technologies to turn ideas into useful d
 
 ## 📌 Featured Projects
 
-
 ### 📊 Sistem Informasi Indeks Desa
 
 > Web-based system for calculating and managing Village Development Index data.
@@ -97,6 +96,21 @@ Currently learning and exploring modern technologies to turn ideas into useful d
 
 ---
 
+## 🟡 Pac-Man Contribution Graph
+
+<picture data-importer="pacman">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/unedohcsirait/unedohcsirait/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/unedohcsirait/unedohcsirait/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/unedohcsirait/unedohcsirait/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+---
 
 ## 🤝 Let's Connect
 
@@ -113,13 +127,3 @@ Currently learning and exploring modern technologies to turn ideas into useful d
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
-
----
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unedohcsirait/unedohcsirait/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unedohcsirait/unedohcsirait/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/unedohcsirait/unedohcsirait/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
